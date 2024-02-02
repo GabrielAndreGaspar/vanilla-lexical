@@ -1,3 +1,3 @@
 ## Vanilla lexical
 
-- Learning to use the meta lib "lexical" with vanilla js
+- Learning to use the meta lib "[lexical](https://lexical.dev/)" with vanilla js
